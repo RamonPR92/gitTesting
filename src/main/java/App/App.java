@@ -11,5 +11,9 @@ public class App {
         for (int i = 0; i < 10; i++) {
             System.out.println("No la mames " + i + " veces");
         }
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("No la mames la corneta " + i + " veces");
+        }
     }
 }
